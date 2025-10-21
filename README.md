@@ -27,6 +27,7 @@ Podés iniciarlo, apagarlo o revisar su estado con simples comandos desde WhatsA
 
 ```bash
 pkg update -y && pkg install git nodejs -y && git clone https://github.com/TU_USUARIO/PicolasATERNOSbot && cd PicolasATERNOSbot && npm install && node index.js
+```
 📷 Luego escaneá el QR que aparece en Termux con tu WhatsApp
 👉 (Configuración → Dispositivos vinculados → Vincular dispositivo)
 
