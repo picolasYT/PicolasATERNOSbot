@@ -26,7 +26,7 @@ Podés iniciarlo, apagarlo o revisar su estado con simples comandos desde WhatsA
 > ⚠️ Reemplazá `TU_USUARIO` por tu nombre real de GitHub
 
 ```bash
-pkg update -y && pkg install git nodejs -y && git clone https://github.com/TU_USUARIO/PicolasATERNOSbot && cd PicolasATERNOSbot && npm install && npm start
+pkg update -y && pkg install git nodejs -y && git clone https://github.com/picolasYT/PicolasATERNOSbot && cd PicolasATERNOSbot && npm install && npm start
 ```
 📷 Luego escaneá el QR que aparece en Termux con tu WhatsApp
 👉 (Configuración → Dispositivos vinculados → Vincular dispositivo)
