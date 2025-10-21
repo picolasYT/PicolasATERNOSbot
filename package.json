@@ -1,0 +1,16 @@
+{
+  "name": "picolaswa-control",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp para controlar PicolasBOTaternos desde WhatsApp.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest",
+    "node-cron": "latest"
+  }
+}
